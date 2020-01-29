@@ -1009,8 +1009,8 @@ p {
   @media (max-width: 767px) {
     .video-wrapper {
       margin-right: 0; } }
-  /*.video-wrapper .video-image img {
-    width: 100%; }*/
+  .video-wrapper .video-image img {
+    width: 100%; }
   .video-wrapper .video-icon {
     position: absolute;
     top: 0;
