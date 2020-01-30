@@ -754,7 +754,7 @@ p {
   color: #2E2E2E; }
 
 .sticky .navbar-nav .nav-item.active > a, .sticky .navbar-nav .nav-item:hover > a {
-  color: #361CC1; }
+  color: #ff5733; }
 
 /*===== HEADER HERO =====*/
 .header-hero {
@@ -931,12 +931,12 @@ p {
       color: #361CC1; }
   .single-services:hover {
     border-color: #FE7A7B; }
-    .single-services:hover .services-icon .shape {
+    /*.single-services:hover .services-icon .shape {
       -webkit-transform: rotate(25deg);
       -moz-transform: rotate(25deg);
       -ms-transform: rotate(25deg);
       -o-transform: rotate(25deg);
-      transform: rotate(25deg); }
+      transform: rotate(25deg); }*/
 
 /*===========================
       05.ABOUT css 
